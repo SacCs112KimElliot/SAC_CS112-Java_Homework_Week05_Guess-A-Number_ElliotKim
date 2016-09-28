@@ -1,0 +1,2 @@
+# SAC_CS112-Java_Homework_Week05_Guess-A-Number_ElliotKim
+Allow user to play until they no longer wish to play                 Hint:  Ask after each round                 Keep track of number of good guesses                 Keep track of number of bad guesses                 Keep track of number of games played                 Calculate guess percentage for each game                  Calculate overall guess percentage
