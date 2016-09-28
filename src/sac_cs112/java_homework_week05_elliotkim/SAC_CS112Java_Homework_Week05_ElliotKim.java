@@ -80,3 +80,5 @@ public class SAC_CS112Java_Homework_Week05_ElliotKim
         System.out.println("Good bye!\n");
     }
 }
+
+// Good job, Elliot
